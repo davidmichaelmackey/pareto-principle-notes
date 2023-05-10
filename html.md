@@ -4,7 +4,7 @@
 
 ## HTML Tags
 
-HTML is a markup language that uses tags to define the structure and content of a web page. Understanding the basic HTML tags, such as <html>, <head>, <body>, and <p>, is essential for creating web pages.
+HTML is a markup language that uses tags to define the structure and content of a web page. Understanding the basic HTML tags, such as `<html>`, `<head>`, `<body>`, and `<p>`, is essential for creating web pages.
 
 ## Semantic HTML
 
