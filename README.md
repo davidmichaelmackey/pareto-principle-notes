@@ -1,0 +1,1 @@
+# pareto-principle-notes
